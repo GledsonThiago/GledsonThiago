@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá! 👋
 
 Me chamo Gledson Thiago. <br> Sou um Dev. Front-End, e Atualmente estou aprendendo e criando projetos com:
 <br>
